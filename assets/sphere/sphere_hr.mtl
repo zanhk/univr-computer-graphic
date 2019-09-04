@@ -1,0 +1,10 @@
+newmtl materiale
+Ka 0 0 0.2
+Kd 0.8 0.8 0.3
+Ks  1 1 1 
+Ni 1
+Ns 100
+Tf 1 1 1
+d 1
+map_Kd sphere.png
+

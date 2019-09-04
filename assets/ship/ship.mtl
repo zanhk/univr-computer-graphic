@@ -1,0 +1,10 @@
+newmtl materiale
+Ka 0 0 0.2
+Kd 0.2 0.4 0.9
+Ks  1 1 1 
+Ni 1
+Ns 100
+Tf 1 1 1
+d 1
+
+
